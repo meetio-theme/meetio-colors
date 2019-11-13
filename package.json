@@ -1,9 +1,9 @@
 {
   "name": "meetio-theme-colors",
   "version": "1.0.0",
-  "description": "The most delicious and wonderful colors Sublime Text 3",
+  "description": "The most delicious and wonderful colors for Meetio Theme",
   "bugs": {
-    "url": "https://github.com/meetio-theme/sublime-meetio-theme-icons/issues"
+    "url": "https://github.com/meetio-theme/sublime-meetio-theme-colors/issues"
   },
   "author": "Mauro Reis Vieira <mauroreisvieira@gmail.com>",
   "license": "MIT",
