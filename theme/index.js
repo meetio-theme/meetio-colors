@@ -1,6 +1,6 @@
 /*eslint-disable no-undef */
-const light = require("./light")
-const dark = require("./dark")
+const light = require("./variations/light")
+const dark = require("./variations/dark")
 
 module.exports = {
     light: light,
