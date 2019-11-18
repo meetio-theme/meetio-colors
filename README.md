@@ -1,12 +1,6 @@
 # Meetio Theme Colors
 
-## Get Started
-
-### Clone the repository using Git
-
-```bash
-git clone https://github.com/meetio-theme/meetio-theme-colors
-```
+The most delicious and wonderful colors for Meetio Theme
 
 ### Installation
 
