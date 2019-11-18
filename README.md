@@ -1,5 +1,7 @@
 # Meetio Theme Colors
 
+The most delicious and wonderful colors for Meetio Theme
+
 ### Installation
 
 ```bash
