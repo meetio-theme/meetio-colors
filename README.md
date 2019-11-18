@@ -1,5 +1,25 @@
 # Meetio Theme Colors
 
+## Get Started
+
+### Clone the repository using Git
+
+```bash
+git clone https://github.com/meetio-theme/meetio-theme-colors
+```
+
+### Installation
+
+```bash
+# NPM
+$ npm install meetio-theme-colors --save
+
+# YARN
+yarn add meetio-theme-colors
+```
+
+Alternatively you can [download](https://codeload.github.com/meetio-theme/meetio-theme-colors/zip/master) this repository.
+
 ### Schemes Palettes
 
 | Usage           | Light                                                                         | Dark                                                                          |
