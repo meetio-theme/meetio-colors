@@ -2,7 +2,4 @@
 const light = require("./variations/light")
 const dark = require("./variations/dark")
 
-module.exports = {
-    light: light,
-    dark: dark
-}
+module.exports = [light, dark];
