@@ -15,7 +15,7 @@ git clone https://github.com/meetio-theme/meetio-theme-colors
 $ npm install meetio-theme-colors --save
 
 # YARN
-yarn add meetio-theme-colors
+$ yarn add meetio-theme-colors
 ```
 
 Alternatively you can [download](https://codeload.github.com/meetio-theme/meetio-theme-colors/zip/master) this repository.
