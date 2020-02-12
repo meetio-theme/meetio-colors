@@ -6,10 +6,10 @@ The most delicious and wonderful colors for Meetio Theme
 
 ```bash
 # NPM
-$ npm install meetio-theme-colors --save
+$ npm install @meetio/meetio-colors -D
 
 # YARN
-$ yarn add meetio-theme-colors
+$ yarn add @meetio/meetio-colors
 ```
 
 ### Schemes Palettes
