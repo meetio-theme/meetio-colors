@@ -1,4 +1,4 @@
-# Meetio Theme Colors
+# Meetio Colors
 
 The most delicious and wonderful colors for Meetio Theme
 
