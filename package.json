@@ -1,24 +1,24 @@
 {
-  "name": "@meetio/meetio-colors",
-  "version": "1.0.3",
-  "description": "The most delicious and wonderful colors for Meetio Theme",
-  "bugs": {
-    "url": "https://github.com/meetio-theme/meetio-colors/issues"
-  },
-  "author": "Mauro Reis Vieira <mauroreisvieira@gmail.com>",
-  "license": "MIT",
-  "scripts": {
-    "build": "node src/build.js",
-    "lint": "eslint *.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "devDependencies": {
-    "prettier": "^1.15.3",
-    "eslint": "^5.12.1",
-    "eslint-config-eslint": "^5.0.1",
-    "eslint-config-prettier": "^6.3.0",
-    "eslint-plugin-node": "^8.0.1",
-    "eslint-plugin-prettier": "^3.0.1",
-    "rimraf": "^3.0.0"
-  }
+    "name": "@meetio/meetio-colors",
+    "version": "1.0.3",
+    "description": "The most delicious and wonderful colors for Meetio Theme",
+    "bugs": {
+        "url": "https://github.com/meetio-theme/meetio-colors/issues"
+    },
+    "main": "dist/index.js",
+    "author": "Mauro Reis Vieira <mauroreisvieira@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "lint": "eslint *.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+        "prettier": "^1.15.3",
+        "eslint": "^5.12.1",
+        "eslint-config-eslint": "^5.0.1",
+        "eslint-config-prettier": "^6.3.0",
+        "eslint-plugin-node": "^8.0.1",
+        "eslint-plugin-prettier": "^3.0.1",
+        "rimraf": "^3.0.0"
+    }
 }
