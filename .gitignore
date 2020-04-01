@@ -1,14 +1,18 @@
-# Folders
-node_modules/
-
-# Files In Folders
-schemes/*.chback
-
-# Files
-*.sublime-project
-*.sublime-workspace
-package-lock.json
-
-# Other
+# macOS filesystem
 .DS_Store
-*.cache
+Thumbs.db
+
+# Editors and IDEs
+.sublime/
+
+# Generated folders
+node_modules/
+.rpt2_cache
+dist/
+demo/*.js
+
+# Generated files
+package-lock.json
+npm-debug
+yarn.lock
+yarn-error.log

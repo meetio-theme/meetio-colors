@@ -1,5 +1,6 @@
-/*eslint-disable no-undef */
-module.exports = {
+import { IColors } from "./../interfaces"
+
+export const dark: IColors = {
     cursor: "#ffcc00",
     foreground: "#dedfe4",
     background: "#011627",
@@ -13,9 +14,9 @@ module.exports = {
     purple: "#c2afff",
     red: "#d95757",
     yellow: "#ffcb8b",
+    deprecated: "#ffc777a1",
     invalid: "#d46c6c66",
     diffAdded: "#addb67",
     diffModified: "#e2b93d",
-    diffDeleted: "#ef5350",
+    diffDeleted: "#ef5350"
 }
-

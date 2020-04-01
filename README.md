@@ -29,8 +29,8 @@ $ yarn add @meetio/meetio-colors
 | `Purple`        | ![#7c4dff](https://placehold.it/30x24/7c4dff/000000?text=%20) `#7c4dff`       | ![#c2afff](https://placehold.it/30x24/c2afff/000000?text=%20) `#c2afff`       |
 | `Red`           | ![#e53935](https://placehold.it/30x24/e53935/000000?text=%20) `#e53935`       | ![#d95757](https://placehold.it/30x24/d95757/000000?text=%20) `#d95757`       |
 | `Yellow`        | ![#f3ad2c](https://placehold.it/30x24/f3ad2c/000000?text=%20) `#f3ad2c`       | ![#ffcb6b](https://placehold.it/30x24/ffcb6b/000000?text=%20) `#ffcb6b`       |
+| `Deprecated`    | ![#ffc777a1](https://placehold.it/30x24/ffc777a1/000000?text=%20) `#ffc777a1` | ![#ffc777a1](https://placehold.it/30x24/ffc777a1/000000?text=%20) `#ffc777a1` |
 | `Invalid`       | ![#d3423e66](https://placehold.it/30x24/d3423e66/000000?text=%20) `#d3423e66` | ![#d46c6c66](https://placehold.it/30x24/d46c6c66/000000?text=%20) `#d46c6c66` |
 | `Diff Added`    | ![#9ccc65](https://placehold.it/30x24/9ccc65/000000?text=%20) `#9ccc65`       | ![#9ccc65](https://placehold.it/30x24/9ccc65/000000?text=%20) `#9ccc65`       |
 | `Diff Modified` | ![#e2b93d](https://placehold.it/30x24/e2b93d/000000?text=%20) `#e2b93d`       | ![#e2b93d](https://placehold.it/30x24/e2b93d/000000?text=%20) `#e2b93d`       |
 | `Diff Deleted`  | ![#ef5350](https://placehold.it/30x24/ef5350/000000?text=%20) `#ef5350`       | ![#ef5350](https://placehold.it/30x24/ef5350/000000?text=%20) `#ef5350`       |
-
