@@ -2,10 +2,18 @@
     "name": "@meetio/meetio-colors",
     "version": "1.0.4",
     "description": "The most delicious and wonderful colors for Meetio Theme",
+    "main": "dist/index.js",
+    "typescript": {
+        "definition": "index.d.ts"
+    },
+    "files": [
+        "dist/index.js",
+        "dist/variations/index.js"
+    ],
+    "types": "dist/interfaces.d.ts",
     "bugs": {
         "url": "https://github.com/meetio-theme/meetio-colors/issues"
     },
-    "main": "dist/index.js",
     "author": "Mauro Reis Vieira <mauroreisvieira@gmail.com>",
     "license": "MIT",
     "scripts": {
@@ -30,10 +38,6 @@
         "eslint": "6.8.0",
         "husky": "^4.2.1",
         "prettier": "^1.18.2",
-        "ts-node": "^8.6.2",
         "typescript": "^3.7.2"
-    },
-    "dependencies": {
-        "@types/node": "^13.7.1"
     }
 }
