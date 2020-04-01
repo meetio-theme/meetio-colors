@@ -12,6 +12,11 @@ $ npm install @meetio/meetio-colors -D
 $ yarn add @meetio/meetio-colors
 ```
 
+## Use
+
+```ts
+import { light, dark } from '@meetio/meetio-colors';
+```
 
 ### Interface
 
