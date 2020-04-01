@@ -36,7 +36,7 @@ export interface IColors {
     diffModified: string;
     diffDeleted: string;
 }
-
+```
 
 ### Schemes Palettes
 
