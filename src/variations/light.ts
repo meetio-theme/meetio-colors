@@ -1,4 +1,4 @@
-import { IColors } from "./../interfaces"
+import { IColors } from './../interfaces';
 
 export const light: IColors = {
     cursor: '#7e57c2',

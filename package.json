@@ -1,6 +1,6 @@
 {
     "name": "@meetio/meetio-colors",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "description": "The most delicious and wonderful colors for Meetio Theme",
     "main": "dist/index.js",
     "typescript": {
