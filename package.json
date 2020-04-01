@@ -1,18 +1,11 @@
 {
     "name": "@meetio/meetio-colors",
-    "version": "1.4.0",
+    "version": "1.7.0",
     "description": "The most delicious and wonderful colors for Meetio Theme",
     "main": "dist/index.js",
     "typescript": {
         "definition": "index.d.ts"
     },
-    "files": [
-        "dist/index.js",
-        "dist/variations/light.js",
-        "dist/variations/dark.js",
-        "dist/interfaces.d.ts"
-    ],
-    "types": "dist/interfaces.d.ts",
     "bugs": {
         "url": "https://github.com/meetio-theme/meetio-colors/issues"
     },
