@@ -22,6 +22,7 @@ import { light, dark } from '@meetio/meetio-colors';
 
 ```ts
 export interface IColors {
+    accent: string;
     cursor: string;
     foreground: string;
     background: string;
