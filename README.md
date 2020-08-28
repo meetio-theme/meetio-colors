@@ -48,6 +48,7 @@ export interface IColors {
 
 | Usage           | Light                                                                         | Dark                                                                          |
 | --------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| `Accent`        | ![#80cbc4](https://placehold.it/30x24/80cbc4/000000?text=%20) `#80cbc4`       | ![#80cbc4](https://placehold.it/30x24/80cbc4/000000?text=%20) `#80cbc4`       |
 | `Cursor`        | ![#7e57c2](https://placehold.it/30x24/7e57c2/000000?text=%20) `#7e57c2`       | ![#ffcc00](https://placehold.it/30x24/ffcc00/000000?text=%20) `#ffcc00`       |
 | `Foreground`    | ![#455A64](https://placehold.it/30x24/455A64/000000?text=%20) `#455A64`       | ![#dedfe4](https://placehold.it/30x24/dedfe4/000000?text=%20) `#dedfe4`       |
 | `Background`    | ![#fbfbfb](https://placehold.it/30x24/fbfbfb/000000?text=%20) `#fbfbfb`       | ![#011627](https://placehold.it/30x24/011627/000000?text=%20) `#011627`       |
