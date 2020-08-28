@@ -1,4 +1,5 @@
 export interface IColors {
+    accent: string;
     cursor: string;
     foreground: string;
     background: string;

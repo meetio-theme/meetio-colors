@@ -1,6 +1,7 @@
 import { IColors } from './../interfaces';
 
 export const dark: IColors = {
+    accent: '#80cbc4',
     cursor: '#ffcc00',
     foreground: '#dedfe4',
     background: '#011627',
