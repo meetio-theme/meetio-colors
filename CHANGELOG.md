@@ -1,3 +1,16 @@
+## [3.0.1](https://github.com/meetio-theme/meetio-theme-colors/compare/v3.0.0...v3.0.1) (2021-01-12)
+
+
+
+# [3.0.0](https://github.com/meetio-theme/meetio-theme-colors/compare/v2.0.0...v3.0.0) (2021-01-12)
+
+
+### Features
+
+* added new color variation ([80e1ac2](https://github.com/meetio-theme/meetio-theme-colors/commit/80e1ac28436b626cebcb758be11fa78e88770b7a))
+
+
+
 # [3.0.0](https://github.com/meetio-theme/meetio-theme-colors/compare/v2.0.0...v3.0.0) (2021-01-12)
 
 
