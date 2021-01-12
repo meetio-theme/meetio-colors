@@ -3,11 +3,11 @@ echo "Current version:" $(grep version package.json | sed -E 's/^.*"(4[^"]+)".*$
 echo "Enter release version: "
 read VERSION
 
-read -p "Releasing v$VERSION - are you sure? (y/n)" -n 1 -r
+read -p "Releasing $VERSION - are you sure? (y/n)" -n 1 -r
 echo    # (optional) move to a new line
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
-  echo "Releasing v$VERSION ..."
+  echo "Releasing $VERSION ..."
   yarn run lint
 
   yarn run build
@@ -22,13 +22,13 @@ then
 
   # commit and tag
   git add CHANGELOG.md package.json
-  git commit -m "chore(release): v$VERSION"
-  git tag -a "v$VERSION" -m $VERSION
+  git commit -m "chore(release): $VERSION"
+  git tag -a "$VERSION" -m $VERSION
 
   # commit
   yarn publish --tag next --new-version "$VERSION" --no-commit-hooks --no-git-tag-version
 
   # publish
-  git push origin refs/tags/v$VERSION
+  git push origin refs/tags/$VERSION
   git push
 fi
