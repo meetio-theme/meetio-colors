@@ -4,8 +4,13 @@
     "description": "The most delicious and wonderful colors for Meetio Theme",
     "main": "dist/index.js",
     "typescript": {
-        "definition": "index.d.ts"
+        "definition": "dist/index.d.ts"
     },
+    "files": [
+        "dist/**/*.js",
+        "dist/**/*.d.ts"
+    ],
+    "types": "dist/index",
     "bugs": {
         "url": "https://github.com/meetio-theme/meetio-colors/issues"
     },
