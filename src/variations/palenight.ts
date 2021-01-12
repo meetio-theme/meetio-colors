@@ -9,7 +9,7 @@ export const palenight: IColors = {
     diffAdded: '#9CCC65',
     diffDeleted: '#EF5350',
     diffModified: '#E2B93D',
-    foreground: '#455A64',
+    foreground: '#A6ACCD',
     invalid: '#D3423E66',
     base: {
         black: '#000000',
