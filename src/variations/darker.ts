@@ -2,15 +2,15 @@ import { IColors } from './../interfaces';
 
 export const darker: IColors = {
     accent: '#80CBC4',
-    cursor: '#FFCC00',
     foreground: '#DEDFE4',
     background: '#212121',
+    cursor: '#FFCC00',
     comments: '#545454',
     deprecated: '#FFC777A1',
-    invalid: '#D46C6C66',
     diffAdded: '#ADDB67',
-    diffModified: '#E2B93D',
     diffDeleted: '#EF5350',
+    diffModified: '#E2B93D',
+    invalid: '#D46C6C66',
     base: {
         black: '#000000',
         blue: '#82AAFF',
