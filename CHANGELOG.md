@@ -1,3 +1,21 @@
+## [4.0.2](https://github.com/meetio-theme/meetio-theme-colors/compare/v4.0.1...v4.0.2) (2021-04-09)
+
+
+### Bug Fixes
+
+* revert color of cursor ([3d12a63](https://github.com/meetio-theme/meetio-theme-colors/commit/3d12a63657f3925b323446673d62e677c1233616))
+
+
+
+## [4.0.1](https://github.com/meetio-theme/meetio-theme-colors/compare/v4.0.0...v4.0.1) (2021-04-09)
+
+
+### Bug Fixes
+
+* hex color ([7da9fcc](https://github.com/meetio-theme/meetio-theme-colors/commit/7da9fccacc963201d22be89a48aa713a1d266f91))
+
+
+
 ## [4.0.1](https://github.com/meetio-theme/meetio-theme-colors/compare/v4.0.0...v4.0.1) (2021-04-09)
 
 
