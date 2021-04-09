@@ -1,6 +1,6 @@
 # Meetio Colors
 
-The most delicious and wonderful colors for Meetio Theme
+The most delicious and wonderful colors for [Meetio Theme](https://github.com/meetio-theme/sublime-meetio-theme)
 
 ### Installation
 
@@ -15,5 +15,5 @@ $ yarn add @meetio/meetio-colors
 ## Use
 
 ```ts
-import { lighter, darker, palenight } from '@meetio/meetio-colors';
+import { lighter, darker, palenight, deepocean } from '@meetio/meetio-colors';
 ```
