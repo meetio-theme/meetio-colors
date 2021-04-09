@@ -3,7 +3,7 @@ import { IColors } from './../interfaces';
 export const deepocean: IColors = {
     accent: '#80CBC4',
     foreground: '#DEDFE4',
-    background: '##011627',
+    background: '#011627',
     cursor: '#FFCC00',
     comments: '#697098',
     deprecated: '#FFC777A1',
