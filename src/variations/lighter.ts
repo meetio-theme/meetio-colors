@@ -4,7 +4,7 @@ export const lighter: IColors = {
     accent: '#80CBC4',
     foreground: '#455A64',
     background: '#FBFBFB',
-    cursor: '#FFCC00',
+    cursor: '#272727',
     comments: '#90A4AE',
     deprecated: '#FFC777A1',
     diffAdded: '#9CCC65',
