@@ -1,3 +1,22 @@
+# [4.0.0](https://github.com/meetio-theme/meetio-theme-colors/compare/v3.0.2...v4.0.0) (2021-04-09)
+
+
+### Bug Fixes
+
+* cursor color of lighter version ([c3205eb](https://github.com/meetio-theme/meetio-theme-colors/commit/c3205eb3fb331c1b51b68c02ea61a520ab544f88))
+* variable normalize order ([87cd92c](https://github.com/meetio-theme/meetio-theme-colors/commit/87cd92ce8e78f7dc070822e15886d8e5a209d159))
+
+
+### Features
+
+* added new color variation ([06b1a43](https://github.com/meetio-theme/meetio-theme-colors/commit/06b1a43e66c9e24b433050f1b4bc1cb6f59d609f))
+
+
+
+## [3.0.2](https://github.com/meetio-theme/meetio-theme-colors/compare/v3.0.1...v3.0.2) (2021-01-12)
+
+
+
 ## [3.0.2](https://github.com/meetio-theme/meetio-theme-colors/compare/v3.0.1...v3.0.2) (2021-01-12)
 
 
