@@ -2,14 +2,14 @@ import { IColors } from './../interfaces';
 
 export const palenight: IColors = {
     accent: '#80CBC4',
+    foreground: '#A6ACCD',
     background: '#292D3E',
-    comments: '#676E95',
     cursor: '#FFCC00',
+    comments: '#676E95',
     deprecated: '#FFC777A1',
     diffAdded: '#9CCC65',
     diffDeleted: '#EF5350',
     diffModified: '#E2B93D',
-    foreground: '#A6ACCD',
     invalid: '#D3423E66',
     base: {
         black: '#000000',
