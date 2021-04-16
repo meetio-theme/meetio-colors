@@ -1,3 +1,21 @@
+# [4.1.0](https://github.com/meetio-theme/meetio-theme-colors/compare/v4.0.2...v4.1.0) (2021-04-16)
+
+
+### Bug Fixes
+
+* add opacity color ([066c9ce](https://github.com/meetio-theme/meetio-theme-colors/commit/066c9cef65d2760f6a2f8e31015d3e487de981e7))
+
+
+
+## [4.0.2](https://github.com/meetio-theme/meetio-theme-colors/compare/v4.0.1...v4.0.2) (2021-04-09)
+
+
+### Bug Fixes
+
+* revert color of cursor ([3d12a63](https://github.com/meetio-theme/meetio-theme-colors/commit/3d12a63657f3925b323446673d62e677c1233616))
+
+
+
 ## [4.0.2](https://github.com/meetio-theme/meetio-theme-colors/compare/v4.0.1...v4.0.2) (2021-04-09)
 
 
