@@ -7,9 +7,9 @@ export const darker: IColors = {
     cursor: '#FFCC00',
     comments: '#545454',
     deprecated: '#FFC777A1',
-    diffAdded: '#ADDB67',
-    diffDeleted: '#EF5350',
-    diffModified: '#E2B93D',
+    diffAdded: 'color(var(green) alpha(0.25))',
+    diffDeleted: 'color(var(red) alpha(0.25))',
+    diffModified: 'color(var(yellow) alpha(0.25))',
     invalid: '#D46C6C66',
     base: {
         black: '#000000',
