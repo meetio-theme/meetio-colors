@@ -7,9 +7,9 @@ export const lighter: IColors = {
     cursor: '#272727',
     comments: '#90A4AE',
     deprecated: '#FFC777A1',
-    diffAdded: 'color(var(green) alpha(0.30))',
-    diffDeleted: 'color(var(red) alpha(0.30))',
-    diffModified: 'color(var(yellow) alpha(0.30))',
+    diffAdded: '#9CCC65',
+    diffDeleted: '#EF5350',
+    diffModified: '#E2B93D',
     invalid: '#D3423E66',
     base: {
         black: '#000000',
