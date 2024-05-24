@@ -1,18 +1,10 @@
 {
-    "compilerOptions": {
-        "module": "commonjs",
-        "declaration": true,
-        "target": "es6",
-        "outDir": "dist",
-        "lib": ["es7", "dom"],
-        "esModuleInterop": true,
-        "sourceMap": true,
-        "allowUnreachableCode": false,
-        "noUnusedLocals": true,
-        "noUnusedParameters": true,
-        "noImplicitAny": true,
-        "resolveJsonModule": true
-    },
-    "include": ["src/*.ts"],
-    "exclude": ["node_modules", "dist"]
+  "extends": "@harmonix-hub/tsconfig/library.json",
+  "compilerOptions": {
+    "outDir": "./dist",
+    "module": "ES2020",
+    "declaration": true
+  },
+  "include": ["./*.d.ts", "./src/**/*", "./src/index.ts*"],
+  "exclude": ["node_modules", "dist"]
 }
