@@ -1,16 +1,16 @@
 import { IColors } from "./../interfaces";
 
-export const darker: IColors = {
+export const base: IColors = {
   accent: "#80CBC4",
-  foreground: "#DEDFE4",
-  background: "#212121",
   cursor: "#FFCC00",
-  comments: "#545454",
+  foreground: "#EEFFFF",
+  background: "#263238",
+  comments: "#546E7A",
   deprecated: "#FFC777A1",
-  diffAdded: "#ADDB67",
-  diffDeleted: "#EF5350",
-  diffModified: "#E2B93D",
   invalid: "#D46C6C66",
+  diffAdded: "#ADDB67",
+  diffModified: "#E2B93D",
+  diffDeleted: "#EF5350",
   base: {
     black: "#000000",
     blue: "#82AAFF",

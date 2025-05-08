@@ -15,5 +15,5 @@ $ yarn add @meetio/meetio-colors
 ## Use
 
 ```ts
-import { lighter, darker, palenight, deepocean } from '@meetio/meetio-colors';
+import { base, lighter, darker, palenight, deepocean } from "@meetio/meetio-colors";
 ```
